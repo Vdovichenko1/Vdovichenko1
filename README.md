@@ -1,4 +1,4 @@
-###### The world is a magic 💫
+# The world is a magic 💫
 
 ### 👋 Hi, I’m Anton!
 
