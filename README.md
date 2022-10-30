@@ -1,6 +1,6 @@
-The world is a magic 💫
+###### The world is a magic 💫
 
-👋 Hi, I’m Anton!
+### 👋 Hi, I’m Anton!
 
 - 🔥 I’m interested in developing and learning new things
 - 🎯 I’m currently learning to become a frontend developer
