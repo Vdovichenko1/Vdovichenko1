@@ -1,4 +1,4 @@
-# To write clean code, I first write dirty code and then refactor it 🖖
+
 
 ### 👋 Hi, I’m Anton!
 
